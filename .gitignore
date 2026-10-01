@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# сохранения игры и рекорды — у каждого свои
+save.json
+records.txt
